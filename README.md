@@ -1,2 +1,6 @@
 # hello-world
-Repository for practice making one
+
+I'm Rachel Martin, I like putting things off and learning new things. 
+
+Like GitHub. 
+
